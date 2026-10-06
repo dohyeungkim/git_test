@@ -1,7 +1,13 @@
 # Section1
+<<<<<<< HEAD
 Hello world!
 안녕 세상아!
 Hallo Welt!
+=======
+Fight
+
+
+>>>>>>> 440c99a (f2)
 
 # Section 2
 Bye world!
